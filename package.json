@@ -1,0 +1,28 @@
+{
+  "name": "js-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "g": "^2.0.1",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-less": "^4.0.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "browserslist": [
+    "last 3 versions",
+    "opera 12-13",
+    "ie >= 10",
+    "ff ESR"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Kurkchi",
+  "license": "ISC"
+}
